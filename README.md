@@ -8,14 +8,9 @@ Hello World 👋
 
 I’m Hasmukh, a full-stack software developer, creative coder and a design enthusiast. I am also a teacher since 9 years with experience in teaching various programming languages and not to forget a wild mountain trekker that needs coffee to code even harder.
 
-Want to know more about me? [Check out my portfolio.](https://ihasmukhgehlot/)
-
-
 ## &#x1f4c8; GitHub Stats
 
 [![Hasmukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihasmukhgehlot)](https://github.com/ihasmukhgehlot/github-readme-stats)
-
-<br>
 
 ## 💼 Skills
 
