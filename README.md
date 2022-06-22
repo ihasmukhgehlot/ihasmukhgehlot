@@ -10,7 +10,7 @@ I’m Hasmukh, a full-stack software developer, creative coder and a design enth
 
 ## &#x1f4c8; GitHub Stats
 
-[![Hasmukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihasmukhgehlot)](https://github.com/ihasmukhgehlot/github-readme-stats)
+[![Hasmukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihasmukhgehlot)](https://github.com/ihasmukhgehlot/)
 
 ## 💼 Skills
 
@@ -26,24 +26,23 @@ I’m Hasmukh, a full-stack software developer, creative coder and a design enth
 <br>
 
 > ### Database
-> ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-> ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+> [![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
+> [![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
 
 <br>
 
 > ### Styling
-> ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+> [![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
 
 <br>
 
 > ### Tools
-> ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-> ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-> ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-> ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-> ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-> ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-> ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-> ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+> [![Netlify](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
+> [![NPM](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
+> [![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
+> [![Photoshop](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
+> [![Illustrator](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
+> [![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
+> [![GitLab](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
 
 <br>
