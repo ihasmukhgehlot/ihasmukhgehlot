@@ -10,37 +10,11 @@ I’m Hasmukh, a full-stack software developer, creative coder and a design enth
 
 Want to know more about me? [Check out my portfolio.](https://ihasmukhgehlot/)
 
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- [5 Basic Tips for Angular Unit Testing](https://ihasmukhgehlot.in/blog/5-basic-tips-for-angular-unit-testing)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/ihasmukhgehlot/crypto-clone">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ihasmukhgehlot&repo=crypto-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihasmukhgehlot)](https://github.com/ihasmukhgehlot/github-readme-stats)
-
-<br>
-
 [![Hasmukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihasmukhgehlot)](https://github.com/ihasmukhgehlot/github-readme-stats)
 
-<br>
 <br>
 
 ## 💼 Skills
