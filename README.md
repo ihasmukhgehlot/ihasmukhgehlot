@@ -15,7 +15,10 @@ I’m Hasmukh, a full-stack software developer, creative coder and a design enth
 ## 💼 Skills
 
 > ### Highlights
+> [![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
+> [![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
 > [![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
+> [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
 > [![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
 > [![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
 > [![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)](https://github.com/ihasmukhgehlot)
