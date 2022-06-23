@@ -7,7 +7,6 @@
 Hello World 👋
 
 I’m Hasmukh, a full-stack software developer, creative coder, teacher and a design enthusiast. I have been coding since the age of 15 from basic html websites to advanced level web projects that include ecommerce portals and hybrid app development using react, ionic and flask. 
-
 <br>
 I like to explore problems and find simple solutions to make it easier for people to learn even the complex concepts. SIMPLICITY is what i believe in.
 
